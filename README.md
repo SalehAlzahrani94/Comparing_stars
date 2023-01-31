@@ -1,7 +1,3 @@
 # Comparing_stars
 Comparing Art Stars and get the best 
-< img src = "https://github-readme-stats.vercel.app/api?username=SalehAlzahrani94&show_icons=true&theme=radical">
-< img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SalehAlzahrani94&layout=compact">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalehAlzahrani94&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalehAlzahrani94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+this program compare between all of the stars , you can search for one star and will return his moves and total minutes, also you can look up  two stars and return total time the actors was together  and in which move ... so on  
